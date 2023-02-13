@@ -1,4 +1,8 @@
 hello world
 aho
 baka
+<<<<<<< HEAD
 mainだぜ
+=======
+testingだよ〜
+>>>>>>> testing
