@@ -6,3 +6,4 @@ mainだぜ
 =======
 testingだよ〜
 >>>>>>> testing
+リモートなう
